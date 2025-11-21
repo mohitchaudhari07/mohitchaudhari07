@@ -4,7 +4,7 @@
 Email Me 👉 ✉️ **chaudharymohit961@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** Hostel Management And Automation.
-- 🌱 **I’m currently learning:** FullStack FrameWork **NextJS**
+- 🌱 **I’m currently learning:** FullStack Framework **NextJS**
 - 🤔 **I’m looking for help with:** Hostel Management And Automation, For New Unique Features.
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** chaudharymohit961@gmail.com
