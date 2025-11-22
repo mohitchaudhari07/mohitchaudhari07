@@ -1,5 +1,10 @@
+<h1 align="center">
+  <img src="https://i.gifer.com/EKk3.gif" width="100" style="border-radius:10px;" />
+  
+</h1>
 # 💫 Hi 👋, I'm Mohit Chaudhari
 **A passionate IT Engineer || MERN Developer**
+
 
 Email Me 👉 ✉️ **chaudharymohit961@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
