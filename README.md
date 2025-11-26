@@ -1,3 +1,42 @@
+<!-- 🌟 Featured Work -->
+<div align="center">
+
+## 🚀 Currently Building: **SpotHiver — Real-World Advertising Platform**
+
+💡 A full-stack project redefining offline advertising by connecting **brands**, **vendors**, and **real-time ad placements** across physical locations.
+
+---
+
+### 🔧 Tech Stack
+<img src="https://img.shields.io/badge/React-61dbfb?style=for-the-badge&logo=react&logoColor=black"/> 
+<img src="https://img.shields.io/badge/Express-%23000000.svg?style=for-the-badge&logo=express&logoColor=white"/> 
+<img src="https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white"/> 
+<img src="https://img.shields.io/badge/TailwindCSS-38bdf8?style=for-the-badge&logo=tailwindcss&logoColor=white"/> 
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+
+---
+
+### 🔥 Core Modules
+| Module | Status |
+|--------|--------|
+| Vendor Dashboard | 🛠 In Progress |
+| Client Campaign Portal | 🛠 Building |
+| Live Screen Sync | 🚧 Concept Stage |
+| Payment + Slot Management | 🚧 Planning |
+
+---
+
+📍 *Currently integrating authentication, secure routes & real-time vendor UI.*
+
+<br/>
+
+</div>
+
+
+
+</div>
+
+
 <h1 align="center">
   <img src="https://i.gifer.com/EKk3.gif" width="100" style="border-radius:10px;" />
 </h1>
